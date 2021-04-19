@@ -29,3 +29,4 @@ datalist {position: static ;}
 #shenron{background-color: rgb(50, 160, 28); }
 * {resize:both;}
 a[alt] {background-color: rebeccapurple;}
+option, input {color: rgb(134, 109, 109);}
