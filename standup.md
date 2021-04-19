@@ -1,8 +1,9 @@
+
 04/18/2021
 
-Hi, it is just going to be me for this lab <br>
+Hi, it is just going to be me for this lab
 <br>
-
+<br>
 
 Overview of what I did yesterday:<br>
 Nothing related to lab 3<br>
@@ -29,3 +30,4 @@ The github pages is not updating as quickly as I would like it to<br>
 Ratings for this assignment<br>
 Team communication: 10/10<br>
 Team sastification: 10/10<br>
+
