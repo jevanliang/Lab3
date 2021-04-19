@@ -1,6 +1,6 @@
 h1 {font-size: 1cm}
 h1 {margin: 25px 50px 75px 100px}
-h1 {color:burlywood; text-decoration:overline; text-align: center;}
+h1 {color:rgb(126, 73, 5); text-decoration:overline; text-align: center;}
 h1 {position: fixed;}
 h2 {font-size: 6mm}
 h2 {margin: auto}
@@ -11,7 +11,7 @@ p  {margin-top: 100px; margin-bottom: 100px; margin-right: 150px; margin-left: 8
 li {font-size: 3ch}
 li {padding: 100px 75px 50px 25px}
 li {display: inline;}
-p.dotted {border-style:dotted; border-width:medium; border-color: aqua; border-radius: 1cm;}
+p.dotted {border-style:dotted; border-width:medium; border-color: rgb(15, 107, 107); border-radius: 1cm;}
 a  {display: block;}
 a:link {color:red}
 a:visited{color:chartreuse}
@@ -20,7 +20,7 @@ a:active{color:wheat}
 fieldset {height: 4cm; width: 8cm;}
 fieldset {max-height: 5cm; max-width: 10cm;}
 datalist {position: static ;}
-.flex-container { display: flex; flex-wrap: nowrap; background-color: rgb(162, 203, 243);}
+.flex-container { display: flex; flex-wrap: nowrap; background-color: rgb(36, 114, 192);}
 .flex-container > div { background-color: #f30c0c; width: 150px; height: 150px; margin: 20px; text-align: center; font-size: 30px;}
 .grid-container { display: grid; grid-template-columns: auto auto auto; background-color: #78fc7f; padding: 10px;}
 .grid-item { background-color: rgba(233, 166, 241, 0.8); border: 3px solid rgba(221, 241, 128, 0.8); padding: 20px; font-size: 30px; text-align: center;}
@@ -34,3 +34,4 @@ ol li {font-size: 1.2cm;}
 p > ol {font-size: 2.2cm;}
 option ~ select {font-size: 2.5cm;}
 fieldset + label {color:rgb(185, 235, 156);}
+
