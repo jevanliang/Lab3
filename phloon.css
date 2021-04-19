@@ -30,3 +30,7 @@ datalist {position: static ;}
 * {resize:both;}
 a[alt] {background-color: rebeccapurple;}
 option, input {color: rgb(134, 109, 109);}
+ol li {font-size: 1.2cm;}
+p > ol {font-size: 2.2cm;}
+option ~ select {font-size: 2.5cm;}
+fieldset + label {color:rgb(185, 235, 156);}
