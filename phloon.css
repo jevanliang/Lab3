@@ -28,3 +28,4 @@ datalist {position: static ;}
 .why{ background-color: rgb(0, 183, 255);}
 #shenron{background-color: rgb(50, 160, 28); }
 * {resize:both;}
+a[alt] {background-color: rebeccapurple;}
